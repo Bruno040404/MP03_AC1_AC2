@@ -1,0 +1,14 @@
+C:\Users\Bmati\OneDrive\Escriptori\MP03\bin\Debug\net8.0\MP03.exe
+C:\Users\Bmati\OneDrive\Escriptori\MP03\bin\Debug\net8.0\MP03.deps.json
+C:\Users\Bmati\OneDrive\Escriptori\MP03\bin\Debug\net8.0\MP03.runtimeconfig.json
+C:\Users\Bmati\OneDrive\Escriptori\MP03\bin\Debug\net8.0\MP03.dll
+C:\Users\Bmati\OneDrive\Escriptori\MP03\bin\Debug\net8.0\MP03.pdb
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.AssemblyInfoInputs.cache
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.AssemblyInfo.cs
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.csproj.CoreCompileInputs.cache
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.dll
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\refint\MP03.dll
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.pdb
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\MP03.genruntimeconfig.cache
+C:\Users\Bmati\OneDrive\Escriptori\MP03\obj\Debug\net8.0\ref\MP03.dll
